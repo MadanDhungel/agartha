@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import sydney from '../assets/sydney.png';
 import UK from '../assets/UK.png';
-import USA from '../assets/USA.png';
+import USA from '../assets/USA.jpeg';
 import canada from '../assets/canada.jpeg';
 
 const destinations = [
